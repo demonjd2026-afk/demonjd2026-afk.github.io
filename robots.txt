@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demonjd2026-afk.github.io/sitemap.xml
